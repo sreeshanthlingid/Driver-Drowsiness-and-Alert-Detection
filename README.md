@@ -1,0 +1,2 @@
+# Driver-Drowsiness-and-Alert-Detection
+Drowsy or fatigued driving poses a significant risk to road safety, leading to a substantial number of accidents, injuries, and fatalities. The problem is characterized by drivers operating vehicles while experiencing reduced alertness, slower reaction times, impaired decision-making abilities, and, in severe cases, the potential to fall asleep at the wheel. 
